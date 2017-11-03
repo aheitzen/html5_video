@@ -6,10 +6,10 @@ var videos = [
 		src: 'video/Heaven.mp4',
 		type: 'video/mp4'
 	},
-	{
-		src: 'video/Lonely-Blue.mp4',
-		type: 'video/mp4'
-	},
+	// {
+	// 	src: 'video/Lonely-Blue.mp4',
+	// 	type: 'video/mp4'
+	// },
 		{
 		src: 'video/Everything-is-right.webm',
 		type: 'video/webm'
